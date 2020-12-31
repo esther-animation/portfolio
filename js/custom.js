@@ -159,14 +159,6 @@ function loaderCounter() {
 }
 loaderCounter();
 
-$(window).load(function() {
-    setTimeout(function() {
-        $('body').addClass('theme-mode-panel-open')
-        $('.mode-switcher-panel-wrapper .switcher-minimize-button').addClass('open')
-
-    }, 2500);
-
-})
 
 // Smooth Scroll
 
