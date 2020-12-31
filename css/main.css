@@ -1492,7 +1492,7 @@ body {
   margin-left: -15rem !important;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 280px) {
   .gr-m-xs-0 {
     margin: 0 !important;
   }
