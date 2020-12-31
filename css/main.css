@@ -35,7 +35,9 @@ body[data-theme='dark'], .dark-bg, .dark-bg-text {
   --btn-border: rgba(255,255,255,.3);
   --border-color:#383F53;
 }
-
+body[data-theme='light'] #logo-web {
+  filter: invert();
+}
 body[data-theme='light'], .light-bg, .light-bg-text {
   --bg: #fff;
   --bg-panel: #f1f1f1;
