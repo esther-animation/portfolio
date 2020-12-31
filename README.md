@@ -2,7 +2,7 @@
 
 Hi! I'm Esther Serrano and this is my portfolio. 
 
-![Esther](https://github.com/esther-animation/portfolio/blob/main/image/jpg/portrait-6.png | width=100)
+<img src="https://github.com/esther-animation/portfolio/blob/main/image/jpg/portrait-6.png" width="400px" />
 
 ## BIOGRAPHY
 
