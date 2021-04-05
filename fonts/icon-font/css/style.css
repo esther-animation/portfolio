@@ -162,6 +162,10 @@ Generated using nucleoapp.com
   content: "\ea03";
 }
 
+.icon-tail-down::before {
+  content: "\ea05";
+}
+
 .icon-small-up::before {
   content: "\ea04";
 }

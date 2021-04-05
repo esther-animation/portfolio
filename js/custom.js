@@ -157,7 +157,7 @@ function loaderCounter() {
         }
     }, 10)
 }
-loaderCounter();
+//loaderCounter();
 
 
 // Smooth Scroll

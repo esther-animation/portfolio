@@ -154,6 +154,10 @@ icons
     content: "\ea03";
 }
 
+.icon-tail-down::before {
+    content: "\ea1b";
+}
+
 .icon-small-up::before {
     content: "\ea04";
 }
